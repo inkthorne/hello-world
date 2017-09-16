@@ -10,3 +10,5 @@ adding yet more text.
 
 added on readme-fixes
 added A on feature.
+added B on feature.
+added C on feature.

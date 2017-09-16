@@ -12,3 +12,6 @@ added on readme-fixes
 added A on feature.
 added B on feature.
 added C on feature.
+added D on feature.
+added E on feature.
+added F on feature.
